@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4bODV+kwVmW/oU/wrWljzKT7FfagP57jbEo+4cpTVbD1E3jqlPLnSeUNyQJPP01WCVtOVzlCdEF3t1JWRBjHBQ==",
+  "dgSpecHash": "fq8sZNyCtS6xTz5CNKsruhJalcQ3EAWvkR685/wD5qpBjPiBoKvfzoXjob5HvTYcZn6C9TrPYU8c/vwyr54Dsw==",
   "success": true,
-  "projectFilePath": "D:\\.NetTraining\\C#\\AbstractClass\\AbstractClass.csproj",
+  "projectFilePath": "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

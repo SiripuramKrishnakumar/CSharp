@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj": {}
+    "D:\\.NetTraining\\WebClient\\WebClient.csproj": {}
   },
   "projects": {
-    "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj": {
+    "D:\\.NetTraining\\WebClient\\WebClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj",
-        "projectName": "AbstractClass",
-        "projectPath": "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "D:\\.NetTraining\\WebClient\\WebClient.csproj",
+        "projectName": "WebClient",
+        "projectPath": "D:\\.NetTraining\\WebClient\\WebClient.csproj",
         "packagesPath": "C:\\Users\\11202137\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\C#\\AbstractClass\\obj\\",
+        "outputPath": "D:\\.NetTraining\\WebClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\11202137\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

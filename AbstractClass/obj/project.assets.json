@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NetTraining\\C#\\AbstractClass\\AbstractClass.csproj",
+      "projectUniqueName": "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj",
       "projectName": "AbstractClass",
-      "projectPath": "D:\\.NetTraining\\C#\\AbstractClass\\AbstractClass.csproj",
+      "projectPath": "D:\\Git\\C#\\AbstractClass\\AbstractClass.csproj",
       "packagesPath": "C:\\Users\\11202137\\.nuget\\packages\\",
-      "outputPath": "D:\\.NetTraining\\C#\\AbstractClass\\obj\\",
+      "outputPath": "D:\\Git\\C#\\AbstractClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\11202137\\AppData\\Roaming\\NuGet\\NuGet.Config",

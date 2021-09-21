@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ykr5me9HR+cOUHtcJbfHRN/ajsI13YpCbXNGpBHPg6u62ZY5ZOjue499YVsYlw1Fn+cY1tyqC0a8X6jSmH3NLw==",
+  "success": true,
+  "projectFilePath": "D:\\.NetTraining\\WebClient\\WebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11202137\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
