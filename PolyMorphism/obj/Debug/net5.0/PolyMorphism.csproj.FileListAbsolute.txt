@@ -1,0 +1,16 @@
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.exe
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.deps.json
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.runtimeconfig.json
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.runtimeconfig.dev.json
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.dll
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\ref\PolyMorphism.dll
+D:\.NetTraining\PolyMorphism\bin\Debug\net5.0\PolyMorphism.pdb
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.csproj.AssemblyReference.cache
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.AssemblyInfoInputs.cache
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.AssemblyInfo.cs
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.csproj.CoreCompileInputs.cache
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.dll
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\ref\PolyMorphism.dll
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.pdb
+D:\.NetTraining\PolyMorphism\obj\Debug\net5.0\PolyMorphism.genruntimeconfig.cache

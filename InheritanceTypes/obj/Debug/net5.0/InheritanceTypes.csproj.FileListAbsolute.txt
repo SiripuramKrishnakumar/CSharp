@@ -1,0 +1,16 @@
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.exe
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.deps.json
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.runtimeconfig.json
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.runtimeconfig.dev.json
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.dll
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\ref\InheritanceTypes.dll
+D:\.NetTraining\C#\InheritanceTypes\bin\Debug\net5.0\InheritanceTypes.pdb
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.csproj.AssemblyReference.cache
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.AssemblyInfoInputs.cache
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.AssemblyInfo.cs
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.csproj.CoreCompileInputs.cache
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.dll
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\ref\InheritanceTypes.dll
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.pdb
+D:\.NetTraining\C#\InheritanceTypes\obj\Debug\net5.0\InheritanceTypes.genruntimeconfig.cache

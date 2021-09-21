@@ -1,0 +1,16 @@
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.exe
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.deps.json
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.runtimeconfig.json
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.runtimeconfig.dev.json
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.dll
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\ref\CollectionsAndGenerics.dll
+D:\.NetTraining\C#\CollectionsAndGenerics\bin\Debug\net5.0\CollectionsAndGenerics.pdb
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.csproj.AssemblyReference.cache
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.AssemblyInfoInputs.cache
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.AssemblyInfo.cs
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.csproj.CoreCompileInputs.cache
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.dll
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\ref\CollectionsAndGenerics.dll
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.pdb
+D:\.NetTraining\C#\CollectionsAndGenerics\obj\Debug\net5.0\CollectionsAndGenerics.genruntimeconfig.cache

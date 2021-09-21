@@ -1,0 +1,16 @@
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.exe
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.deps.json
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.runtimeconfig.json
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.runtimeconfig.dev.json
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.dll
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\ref\GenericDelegates.dll
+C:\Users\11202137\source\repos\GenericDelegates\bin\Debug\net5.0\GenericDelegates.pdb
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.csproj.AssemblyReference.cache
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.AssemblyInfo.cs
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.dll
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\ref\GenericDelegates.dll
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.pdb
+C:\Users\11202137\source\repos\GenericDelegates\obj\Debug\net5.0\GenericDelegates.genruntimeconfig.cache

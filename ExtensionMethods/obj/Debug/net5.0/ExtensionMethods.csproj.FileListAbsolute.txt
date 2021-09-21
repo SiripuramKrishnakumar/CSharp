@@ -1,0 +1,16 @@
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.exe
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+D:\.NetTraining\C#\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\.NetTraining\C#\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache

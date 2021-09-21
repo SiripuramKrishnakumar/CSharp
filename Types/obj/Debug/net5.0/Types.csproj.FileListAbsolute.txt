@@ -1,0 +1,16 @@
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.exe
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.deps.json
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.runtimeconfig.json
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.runtimeconfig.dev.json
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.dll
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\ref\Types.dll
+D:\.NetTraining\C#\Types\bin\Debug\net5.0\Types.pdb
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.csproj.AssemblyReference.cache
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.AssemblyInfoInputs.cache
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.AssemblyInfo.cs
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.csproj.CoreCompileInputs.cache
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.dll
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\ref\Types.dll
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.pdb
+D:\.NetTraining\C#\Types\obj\Debug\net5.0\Types.genruntimeconfig.cache

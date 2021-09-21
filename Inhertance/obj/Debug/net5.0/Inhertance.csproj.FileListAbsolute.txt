@@ -1,0 +1,16 @@
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.exe
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.deps.json
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.runtimeconfig.json
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.runtimeconfig.dev.json
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.dll
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\ref\Inhertance.dll
+D:\.NetTraining\Inhertance\bin\Debug\net5.0\Inhertance.pdb
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.csproj.AssemblyReference.cache
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.AssemblyInfoInputs.cache
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.AssemblyInfo.cs
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.csproj.CoreCompileInputs.cache
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.dll
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\ref\Inhertance.dll
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.pdb
+D:\.NetTraining\Inhertance\obj\Debug\net5.0\Inhertance.genruntimeconfig.cache

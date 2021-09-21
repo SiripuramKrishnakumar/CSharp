@@ -1,0 +1,16 @@
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+D:\.NetTraining\C#\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+D:\.NetTraining\C#\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache

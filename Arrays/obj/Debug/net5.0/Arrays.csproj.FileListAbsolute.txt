@@ -1,0 +1,16 @@
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\.NetTraining\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\.NetTraining\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\.NetTraining\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\.NetTraining\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

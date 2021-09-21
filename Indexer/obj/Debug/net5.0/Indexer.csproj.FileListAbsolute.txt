@@ -1,0 +1,15 @@
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.exe
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.deps.json
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.dll
+D:\.NetTraining\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+D:\.NetTraining\Indexer\bin\Debug\net5.0\Indexer.pdb
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.dll
+D:\.NetTraining\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.pdb
+D:\.NetTraining\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache
